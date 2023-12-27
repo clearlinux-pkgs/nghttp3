@@ -9,7 +9,7 @@
 #
 Name     : nghttp3
 Version  : 1.1.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/ngtcp2/nghttp3/releases/download/v1.1.0/nghttp3-1.1.0.tar.xz
 Source0  : https://github.com/ngtcp2/nghttp3/releases/download/v1.1.0/nghttp3-1.1.0.tar.xz
 Source1  : https://github.com/ngtcp2/nghttp3/releases/download/v1.1.0/nghttp3-1.1.0.tar.xz.asc
