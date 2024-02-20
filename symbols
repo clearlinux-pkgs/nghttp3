@@ -34,6 +34,7 @@ libnghttp3.so.9:nghttp3_conn_submit_response
 libnghttp3.so.9:nghttp3_conn_submit_shutdown_notice
 libnghttp3.so.9:nghttp3_conn_submit_trailers
 libnghttp3.so.9:nghttp3_conn_unblock_stream
+libnghttp3.so.9:nghttp3_conn_update_ack_offset
 libnghttp3.so.9:nghttp3_conn_writev_stream
 libnghttp3.so.9:nghttp3_err_infer_quic_app_error_code
 libnghttp3.so.9:nghttp3_err_is_fatal
